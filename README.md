@@ -16,4 +16,7 @@
   <summary>Github Statistics</summary>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rj-price&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rj-price&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
