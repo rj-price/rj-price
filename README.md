@@ -8,7 +8,6 @@
 ## Find me around the web 🌎
 - Find out more about my current projects and previous experience on [LinkedIn](https://www.linkedin.com/in/jordan-price-95429784/)
 - Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=Jc2K0ZQAAAAJ&hl=en)
-- I (very) occasionally re-tweet things on [Twitter](https://twitter.com/DrRJordanPrice)
 
 <br>
 
