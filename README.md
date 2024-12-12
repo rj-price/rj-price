@@ -1,9 +1,10 @@
 # Hi! I'm Jordan 👋
 
-- I'm a wet lab molecular biologist turned bioinformatician.
+- I'm a molecular biologist turned bioinformatician.
 - I am a junior group leader at [NIAB](niab.com) in Cambridge, UK.
 - My research focusses on functional genomics and biotechnology of fungi important for food, viticulture and agriculture.
 - I use a combination of molecular and computational approaches to try to understand biological traits and genome evolution.
+- I also dabble in plant genomics.
 
 ## Find me around the web 🌎
 - Find out more about my current projects and previous experience on [LinkedIn](https://www.linkedin.com/in/jordan-price-95429784/)
