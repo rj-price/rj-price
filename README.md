@@ -15,8 +15,8 @@
 <details>
   <summary>Github Statistics</summary>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rj-price&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=rj-price&show_icons=true\&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rj-price&exclude_repo=archived_github_site,rj-price.github.io,my_website,Maei,landing_page,html_cv,web_dev,ONT_Qtest_assembly,varnes_genome,metagenomics&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rj-price&exclude_repo=archived_github_site,rj-price.github.io,my_website,Maei,landing_page,html_cv,web_dev,varnes_genome,metagenomics&hide_progress=true)
 
 </details>
