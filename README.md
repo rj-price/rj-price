@@ -17,6 +17,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rj-price&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rj-price&exclude_repo=archived_github_site,rj-price.github.io,my_website&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rj-price&exclude_repo=archived_github_site,rj-price.github.io,my_website,Maei,landing_page,html_cv,web_dev&layout=compact)
 
 </details>
